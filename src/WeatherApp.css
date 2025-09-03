@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.weatherapp {
+  background-image: url("./assets/background.jpg");
+  background-repeat: no-repeat; /* prevents tiling */
+  background-size: cover; /* scales image to cover the area */
+  background-position: center; /* centers the image */
+}
